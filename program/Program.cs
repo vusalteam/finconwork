@@ -12,9 +12,9 @@ class Program
         Console.WriteLine("Введите количество строк в массиве");
         int length = Convert.ToInt32(Console.ReadLine());
         if(length<=0) length=3;
-        string[] input = setArray(length);
-        string[] output = FilterArray(input);
-        Console.WriteLine("[ "+ string.Join(", ", output)+" ]");
+        string[] inputArr = setArray(length);
+        string[] outputArr = FilterArray(inputArr);
+        Console.WriteLine("[ "+ string.Join(", ", outputArr)+" ]");
     }
     static string[] setArray(int length)
     {
@@ -39,28 +39,28 @@ class Program
         }
         return str;
     }
-    static string[] FilterArray(string[] input)
+    static string[] FilterArray(string[] inputArr)
     {
         int count = 0;
-        for (int i = 0; i < input.Length; i++)
+        for (int i = 0; i < inputArr.Length; i++)
         {
-            if (input[i].Length <= 3)
+            if (inputArr[i].Length <= 3)
             {
                 count++;
             }
         }
 
-        string[] output = new string[count];
+        string[] outputArr = new string[count];
         int index = 0;
-        for (int i = 0; i < input.Length; i++)
+        for (int i = 0; i < inputArr.Length; i++)
         {
-            if (input[i].Length <= 3)
+            if (inputArr[i].Length <= 3)
             {
-                output[index] = input[i];
+                outputArr[index] = inputArr[i];
                 index++;
             }
         }
 
-        return output;
+        return outputArr;
     }
 }
