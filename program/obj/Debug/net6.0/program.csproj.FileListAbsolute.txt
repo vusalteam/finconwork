@@ -1,0 +1,15 @@
+D:\Geekbrains\finconwork\finconwork\program\bin\Debug\net6.0\program.exe
+D:\Geekbrains\finconwork\finconwork\program\bin\Debug\net6.0\program.deps.json
+D:\Geekbrains\finconwork\finconwork\program\bin\Debug\net6.0\program.runtimeconfig.json
+D:\Geekbrains\finconwork\finconwork\program\bin\Debug\net6.0\program.dll
+D:\Geekbrains\finconwork\finconwork\program\bin\Debug\net6.0\program.pdb
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\program.csproj.AssemblyReference.cache
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\program.GeneratedMSBuildEditorConfig.editorconfig
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\program.AssemblyInfoInputs.cache
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\program.AssemblyInfo.cs
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\program.csproj.CoreCompileInputs.cache
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\program.dll
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\refint\program.dll
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\program.pdb
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\program.genruntimeconfig.cache
+D:\Geekbrains\finconwork\finconwork\program\obj\Debug\net6.0\ref\program.dll
